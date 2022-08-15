@@ -4,15 +4,18 @@
 
 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
 
-def bharathProfile():
-	skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'Power BI': 'Intermidiate', 'HTML': 'Beginner'}
+
+
+	def bharathProfile():
 	
-	libraries = ['numpy', 'pandas', 'scikit-learn', 'matplotlib', 'seaborn']
+		skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'Power BI': 'Intermidiate', 'HTML': 'Beginner'}
 	
-	Machine Learning = ['Supervised', 'Unsupervised']
+		libraries = ['numpy', 'pandas', 'scikit-learn', 'matplotlib', 'seaborn']
 	
-	Platforms = 'Jupyter Notebook'
+		Machine Learning = ['Supervised', 'Unsupervised']
 	
-	return ∞
+		Platforms = 'Jupyter Notebook'
+	
+		return ∞
 
 
