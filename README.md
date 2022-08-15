@@ -12,7 +12,7 @@
 	
 		libraries = ['numpy', 'pandas', 'scikit-learn', 'matplotlib', 'seaborn']
 	
-		Machine Learning = ['Supervised', 'Unsupervised']
+		machine_learning = ['Supervised', 'Unsupervised']
 	
 		Platforms = 'Jupyter Notebook'
 	
