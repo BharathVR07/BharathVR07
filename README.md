@@ -6,9 +6,13 @@
 
 def bharathProfile():
 	skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate', 'Power BI': 'Intermidiate', 'HTML': 'Beginner'}
+	
 	libraries = ['numpy', 'pandas', 'scikit-learn', 'matplotlib', 'seaborn']
+	
 	Machine Learning = ['Supervised', 'Unsupervised']
+	
 	Platforms = 'Jupyter Notebook'
+	
 	return ∞
 
 
