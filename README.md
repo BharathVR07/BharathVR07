@@ -1,3 +1,5 @@
+# Hi, I'm Bharath!
+
 🎓 I've completed my Bachelors of Commerce in Finance from University of Bangalore.
 
 🌱 I'm currently learning from Kaggle.
